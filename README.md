@@ -9,6 +9,5 @@ Este programa tem essas especificacoes::
     * Imprimir a fatorial do numero
 <u>Version release Development-> 01</u><br>
 <i>@authors<hr>
-Vitor Moreira
-cdhawsg dagdadjawdjkagdhak <br>
+Vitor Moreira <br>
 Osvaldo Junior</i>
